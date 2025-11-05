@@ -8,7 +8,7 @@ app = Flask(__name__)
 db_config = {
     'host': 'localhost',
     'user': 'root',             # or your MySQL username
-    'password': 'Bhavjay2394!',# replace with your password
+    'password': ' ',# replace with your password
     'database': 'library_branch1'
 }
 
